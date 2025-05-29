@@ -19,7 +19,13 @@ Welcome to my GitHub! I'm a passionate front-end developer who loves building re
 
 ## 📂 Featured Projects
 
-Coming soon… (or feel free to link your top repositories here!)
+1. https://www.nutricharge.in/nutrichargewomanworld/
+2. https://www.sibinfotech.com/
+3. https://anuridhi.com/
+4. https://www.illusionaligners.com/
+5. https://marketingexperts.in/projects/crashfix/demo2
+6. https://kitoodlecreators.com/
+7. https://www.aiws.in/
 
 ## 📫 Let's Connect
 
