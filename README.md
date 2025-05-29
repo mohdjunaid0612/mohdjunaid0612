@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Zaroon — Front-End Developer
 
-<!--
-**mohdjunaid0612/mohdjunaid0612** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate front-end developer who loves building responsive, user-friendly web interfaces using modern technologies.
 
-Here are some ideas to get you started:
+## 🚀 Skills & Technologies
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚛️ **React.js** (including React + Vite)
+- 🎨 **Bootstrap 5+**, HTML5, CSS3
+- 🧠 **JavaScript (ES6+)**
+- 🌐 **WordPress** (Elementor, Page Builder, Wp-wakery customization)
+- 🛍 **Shopify** (customization and edit storefronts, Liquid templates)
+
+## 💼 What I Do
+
+- Create pixel-perfect UIs that work across all modern browsers
+- Build dynamic front-end features with React and Vite
+- Customize and develop WordPress themes and Shopify stores
+- Optimize sites for speed, SEO, and accessibility
+
+## 📂 Featured Projects
+
+Coming soon… (or feel free to link your top repositories here!)
+
+## 📫 Let's Connect
+
+- 📧 [Email me](mailto:mohdjunaid0612@gmail.com)
+
+
+
+---
+
+Thanks for visiting! ⭐ Feel free to check out my repositories and follow for future updates.
