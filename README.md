@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Zaroon — Front-End Developer
+# 👋 Hi, I'm Mohd Junaid — Front-End Developer
 
 Welcome to my GitHub! I'm a passionate front-end developer who loves building responsive, user-friendly web interfaces using modern technologies.
 
