@@ -7,7 +7,7 @@ Welcome to my GitHub! I'm a passionate front-end developer who loves building re
 - ⚛️ **React.js** and **NextJs** (including React + Vite)
 - 🎨 **Bootstrap 5+**, HTML5, CSS3
 - 🧠 **JavaScript (ES6+)**
-- 🌐 **WordPress** (Elementor, Page Builder, Wp-wakery customization)
+- 🌐 **WordPress** (Elementor, Page Builder, WPBakery customization)
 - 🛍 **Shopify** (customization and edit storefronts, Liquid templates)
 
 ## 💼 What I Do
