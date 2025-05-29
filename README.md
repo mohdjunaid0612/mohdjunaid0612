@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate front-end developer who loves building re
 
 ## 🚀 Skills & Technologies
 
-- ⚛️ **React.js** (including React + Vite)
+- ⚛️ **React.js** and **NextJs** (including React + Vite)
 - 🎨 **Bootstrap 5+**, HTML5, CSS3
 - 🧠 **JavaScript (ES6+)**
 - 🌐 **WordPress** (Elementor, Page Builder, Wp-wakery customization)
