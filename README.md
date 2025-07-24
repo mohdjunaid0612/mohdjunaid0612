@@ -20,14 +20,15 @@ Welcome to my GitHub! I'm a passionate front-end developer who loves building re
 ## 📂 Featured Projects
 
 1. https://www.nutricharge.in/nutrichargewomanworld/
-2. https://www.sibinfotech.com/
-3. https://anuridhi.com/
-4. https://www.illusionaligners.com/
-5. https://marketingexperts.in/projects/crashfix/demo2
-6. https://kitoodlecreators.com/
-7. https://www.aiws.in/
-8. https://www.rnbglobal.edu.in/
-9. https://marketingexperts.in/projects/premiercarriage/
+2. https://marketingexperts.in/projects/manisha/
+3. https://www.sibinfotech.com/
+4. https://anuridhi.com/
+5. https://www.illusionaligners.com/
+6. https://marketingexperts.in/projects/crashfix/demo2
+7. https://kitoodlecreators.com/
+8. https://www.aiws.in/
+9. https://www.rnbglobal.edu.in/
+10. https://mohdjunaidportfolio.netlify.app/
 
 ## 📫 Let's Connect
 
